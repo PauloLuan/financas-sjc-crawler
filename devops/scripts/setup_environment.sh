@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-cd /project
-npm i
+#cd /project
+#npm i
