@@ -26,6 +26,8 @@ Now you're on the vagrant environment, so you can start the project with the fol
 
 ## License
 
+All the data was downloaded from http://transparencia.tce.sp.gov.br/receita-total-anual-per-capita-por-municipio/sao-jose-dos-campos
+
 Copyleft - MIT © [Paulo Luan](github.com/pauloluan)
 
 [npm-image]: https://badge.fury.io/js/financas-sjc-crawler.svg
